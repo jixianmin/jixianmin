@@ -9,10 +9,78 @@
   <body>
     <form
       method="get"
-      action="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=form"
+      action="https://search.naver.com/search.naver"
+      autocomplete="off"
     >
+      <h2>네이버검색</h2>
       <input name="query" />
-      <input name="submit" />
+      <input type="submit" />
     </form>
+
+    <form method="get" action="https://www.google.com/search">
+      <h2>구글검색</h2>
+      <input name="q" />
+      <input type="submit" />
+    </form>
+
+    <form action="">
+      <fieldset>
+        <legend>상품 선택</legend>
+        <p><b>주문할 상품을 선택해 주세요.</b></p>
+        <label
+          ><input type="checkbox" name="product" value="s_3" />선물용 3kg</label
+        >
+        <label
+          ><input type="checkbox" name="product" value="s_5" />선물용 5kg</label
+        >
+        <label
+          ><input type="checkbox" name="product3" value="f_3" />가정용
+          3kg</label
+        >
+        <label><input type="checkbox" name="product4" value="f_5" /></label>
+        <p><b>포장선택</b></p>
+        <label><input type="radio" name="gift" value="yes" />선물포장</label>
+        <label
+          ><input type="radio" name="gift" value="no" checked />선물 포장
+          안함</label
+        >
+      </fieldset>
+      <fieldset>
+        <legend>배송 정보</legend>
+        <ul>
+          <li>
+            <label for="user-name">이름</label>
+            <input type="text" id="user-name" />
+          </li>
+          <li>
+            <label for="addr">배송주소</label>
+            <input type="text" id="addr" />
+          </li>
+          <li>
+            <label for="mail">이메일 주소</label>
+            <input type="email" id="mail" />
+          </li>
+          <li>
+            <label for="phone">연락처</label>
+            <input type="tel" id="phone" />
+          </li>
+        </ul>
+      </fieldset>
+      <input type="submit" />
+    </form>
+
+    <label for="user-id">아이디(6자 이상)</label>
+    <input type="checkbox" id="user-id" />
+
+    <input maxlength="10" value="기본값~~~" />
+
+    <form>
+      <fieldset>
+        <label>아이디:<input type="text" id="user_id" size="10" /></label>
+        <label>비밀번호:<input type="password" id="user_pw" size="10" /></label>
+        <input type="submit" value="로그인" />
+      </fieldset>
+    </form>
+    <!-- --------------------------------------------------- -->
   </body>
 </html>
