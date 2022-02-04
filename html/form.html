@@ -13,14 +13,14 @@
       autocomplete="off"
     >
       <h2>네이버검색</h2>
-      <input name="query" />
+      <input name="query" placeholder="검색어를 입력하세요" />
       <input type="submit" />
     </form>
 
     <form method="get" action="https://www.google.com/search">
       <h2>구글검색</h2>
-      <input name="q" />
-      <input type="submit" />
+      <input name="q" autofocus readonly vlue="검색어 고정" />
+      <input type="password" />
     </form>
 
     <form action="">
@@ -64,11 +64,33 @@
             <label for="phone">연락처</label>
             <input type="tel" id="phone" />
           </li>
+          <li>
+            <label for="path">가입 경로</label>
+            <select id="path">
+              <option value="blog">블로그</option>
+              <option value="search">검색</option>
+              <option value="sns">SNS</option>
+              <option value="etc">기타</option>
+            </select>
+          </li>
+          <li>
+            <label for="memo">메모</label>
+            <textarea
+              cols="40"
+              rows="4"
+              placeholder="남길 말씀이 있다면 여기에"
+            ></textarea>
+          </li>
         </ul>
       </fieldset>
-      <input type="submit" />
+      <input type="submit" value="주문하기" />
+      <input type="reset" value="취소하기" />
+      <input type="button" value="공지 창 열기" />
+
+      <input type="hidden" name="이름" value="나는 안보여요" />
     </form>
 
+    <br /><br /><br /><br />
     <label for="user-id">아이디(6자 이상)</label>
     <input type="checkbox" id="user-id" />
 
@@ -82,5 +104,56 @@
       </fieldset>
     </form>
     <!-- --------------------------------------------------- -->
+    <ul>
+      <li>
+        <label><input type="checkbox" value="s_3" />선물용 3kg</label>
+        <input type="number" min="0" max="5" />개 (최대 5개)
+      </li>
+      <li>
+        <label><input type="checkbox" value="s_5" />선물용 5kg</label>
+        <input type="number" min="0" max="3" value="1" />개 (최대 3개)
+      </li>
+    </ul>
+    <!-- ------------------------------------------ -->
+    <ul>
+      <li>
+        <label><input type="checkbox" value="s_3" />선물용 3kg</label>
+        <input type="range" min="0" max="5" />개 (최대 5개)
+      </li>
+      <li>
+        <label><input type="checkbox" value="s_5" />선물용 5kg</label>
+        <input type="range" min="0" max="3" value="1" />개 (최대 3개)
+      </li>
+    </ul>
+    <!-- --------------------------------------- -->
+    <h1>날짜 지정하기</h1>
+    <input type="date" input type="date" min="2020-01-20" max="2020-02-15" />
+    <input type="month" />
+    <input type="week" />
+    <!-- ------------------------------- -->
+    <h1>시간 지정하기</h1>
+    <input type="time" />
+    <input type="datetime-local" />
+    <input tupe="file" />
+
+    <h2>textarea</h2>
+    <textarea id="memo" cols="40" rows="4" name="a">기본값</textarea>
+
+    <label for="prod1">상품 선택</label>
+    <select id="prod1">
+      <option value="special_3" selected>선물용 3kg</option>
+      <option value="special_5">선물용 5kg</option>
+      <option value="family_3">가정용 3kg</option>
+      <option value="family_5">가정용 5kg</option>
+    </select>
+
+    <h2>Datalist</h2>
+    <label for="prod2">포장여부</label>
+    <input type="text" id="prod2" list="pack" />
+    <datalist id="pack">
+      <option value="package">선물포장</option>
+      <option value="no_package">포장 안 함</option>
+    </datalist>
+    <!-- ----------------------- --------- -->
   </body>
 </html>
