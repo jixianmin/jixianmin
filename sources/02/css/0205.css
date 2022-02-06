@@ -7,7 +7,7 @@
 /* 구글폰트 googlefont */
 h1{
   padding: 40px;
-  background-color: black;
+  background-color: rgb(245, 241, 10);
   color: red;
 }
 /* 타입 선택자 */
@@ -57,4 +57,16 @@ th{
   list-style-type: none;
 }
 /* 불릿 모양 없애기 */
-
+#container2{
+  width: 1000px;
+  margin: 10px ;
+  text-align: center;
+  background-color: blanchedalmond;
+}
+.shadow1{
+  text-shadow: 5px 5px rgb(0, 0, 0);
+}
+.center{
+  text-align: center;
+}
+/* 책 214에 텍스트 위치 조절 방법 */
