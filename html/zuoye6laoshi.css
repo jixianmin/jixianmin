@@ -1,5 +1,8 @@
 #container {
   width: 600px;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #000;
 }
 
 .header {
@@ -41,6 +44,12 @@ section p {
 .accent {
   color: #0000ff;
 }
+/* 205페이지 16진법을 색상을 표시 */
 .smalltext {
   font-size: 0.7em;
+}
+div {
+  border: 1px solid #222;
+  padding: 0px;
+  margin-bottom: 0px;
 }
