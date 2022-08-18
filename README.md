@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledComponents&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styledComponents&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
 </p>
 
