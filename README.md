@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20World!🥳&fontSize=90" />
 <p align="center"><img src="https://img.shields.io/badge/${React}-${색상}?style=${React}&logo=${텍스트}&logoColor=${텍스트 색상}"/></p>
-![react](https://user-images.githubusercontent.com/98936671/185308328-b5c00d73-d7ad-44b4-8587-bf3eb0f83ef6.svg)
+
+<img src="https://user-images.githubusercontent.com/98936671/185308328-b5c00d73-d7ad-44b4-8587-bf3eb0f83ef6.svg"/>
 
 <img src="https://img.shields.io/badge/${아이콘}-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
 
