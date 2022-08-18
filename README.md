@@ -24,7 +24,7 @@
   +82 10-9971-5484
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98936671/185335322-96d3455e-9fca-4091-95f2-e99397906680.png" width="30px"/></a>&nbsp
+  <img src="https://user-images.githubusercontent.com/98936671/185335322-96d3455e-9fca-4091-95f2-e99397906680.png" width="30px"/ margin-top="60px"></a>&nbsp
   jxm9331@gmail.com
 </p>
 ![email](https://user-images.githubusercontent.com/98936671/185335322-96d3455e-9fca-4091-95f2-e99397906680.png)
