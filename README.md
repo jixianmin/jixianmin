@@ -5,13 +5,12 @@
   <img src="https://user-images.githubusercontent.com/98936671/185310890-f9516bf6-9b03-4998-813a-1466f9945d0d.png" width="30px"/></a>&nbsp 
 </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-#1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
 </p>
 
 
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 
 <!--
 **jixianmin/jixianmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
