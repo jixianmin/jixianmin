@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98936671/185334901-69a64f19-ad41-42a5-b284-ba146e2efe0e.png" width="20px" margin="10px /></a>&nbsp
+  <img src="https://user-images.githubusercontent.com/98936671/185334901-69a64f19-ad41-42a5-b284-ba146e2efe0e.png" width="20px" margin="10px" /></a>&nbsp
   +82 10-9971-5484
 </p>
 <p align="center">
