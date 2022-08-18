@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20World!🥳&fontSize=90" />
 <p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp </p>
 
-<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 
 <!--
 **jixianmin/jixianmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
