@@ -4,9 +4,8 @@
   Tech Stack
   <img src="https://user-images.githubusercontent.com/98936671/185310890-f9516bf6-9b03-4998-813a-1466f9945d0d.png" width="30px"/></a>&nbsp 
 </h2>
-<h2 align="center">Test</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML-E34F26B?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 </p>
 
