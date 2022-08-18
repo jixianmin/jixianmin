@@ -22,6 +22,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98936671/185334901-69a64f19-ad41-42a5-b284-ba146e2efe0e.png" width="30px"/></a>&nbsp
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/98936671/185335322-96d3455e-9fca-4091-95f2-e99397906680.png" width="30px"/></a>&nbsp
+</p>
+![email](https://user-images.githubusercontent.com/98936671/185335322-96d3455e-9fca-4091-95f2-e99397906680.png)
 
 
 <!--
