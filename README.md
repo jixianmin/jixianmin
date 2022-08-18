@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 </p>
-<img src="https://user-images.githubusercontent.com/98936671/185310890-f9516bf6-9b03-4998-813a-1466f9945d0d.png"/></a>&nbsp 
+<img src="https://user-images.githubusercontent.com/98936671/185310890-f9516bf6-9b03-4998-813a-1466f9945d0d.png" width="30px"/></a>&nbsp 
 ![free-icon-hammer-1685511](https://user-images.githubusercontent.com/98936671/185310890-f9516bf6-9b03-4998-813a-1466f9945d0d.png)
 
 
