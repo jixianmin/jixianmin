@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20World!🥳&fontSize=90" width="100%"/>
-<h2 align="center" >
+<h1 align="center" >
   <img src="https://user-images.githubusercontent.com/98936671/185310890-f9516bf6-9b03-4998-813a-1466f9945d0d.png" width="30px"/></a>&nbsp
   Tech Stack
   <img src="https://user-images.githubusercontent.com/98936671/185310890-f9516bf6-9b03-4998-813a-1466f9945d0d.png" width="30px"/></a>&nbsp 
-</h2>
+</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
