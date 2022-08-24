@@ -6,7 +6,7 @@
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
@@ -27,6 +27,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant Design&logoColor=white"/></a>&nbsp 
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98936671/185334901-69a64f19-ad41-42a5-b284-ba146e2efe0e.png" width="20px" align="center" />
@@ -36,9 +40,7 @@
   <img src="https://user-images.githubusercontent.com/98936671/185335322-96d3455e-9fca-4091-95f2-e99397906680.png" width="20px" align="center" />&nbsp 
   jxm9331@gmail.com
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-</p>
+
 
 <!--
 **jixianmin/jixianmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
