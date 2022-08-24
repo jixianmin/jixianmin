@@ -24,7 +24,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant Design&logoColor=white"/></a>&nbsp 
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98936671/185334901-69a64f19-ad41-42a5-b284-ba146e2efe0e.png" width="20px" align="center" />
@@ -34,9 +36,7 @@
   <img src="https://user-images.githubusercontent.com/98936671/185335322-96d3455e-9fca-4091-95f2-e99397906680.png" width="20px" align="center" />&nbsp 
   jxm9331@gmail.com
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant Design&logoColor=white"/></a>&nbsp 
-</p>
+
 
 
 <!--
