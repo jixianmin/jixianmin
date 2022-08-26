@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20World!🥳&fontSize=90" width="100%"/>
 <p align="center">🐣 Frontend Developer 🐣</p>
+<div background-color="gray">
+  <p align="center">Hi, There !!</p>
+  <p align="center">Welcome to my Github !!</p>
+  <p align="center">I like to develop many beautiful things in the world ✨</p>
+</div>
 <h1 align="center" >
   <img src="https://user-images.githubusercontent.com/98936671/185310890-f9516bf6-9b03-4998-813a-1466f9945d0d.png" width="30px"/></a>&nbsp
   Tech Stack
