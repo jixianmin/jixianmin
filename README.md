@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20World!🥳&fontSize=90" width="100%"/>
 <p align="center">🐣 Frontend Developer 🐣</p>
-<div  background-color="red"  style="background-color:red;">
+<div  style="font-size: 12px; line-height: 12px;">
   <p align="center">Hi, There !!</p>
   <p align="center">Welcome to my Github !!</p>
   <p align="center">I like to develop many beautiful things in the world ✨</p>
